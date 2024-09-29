@@ -1,0 +1,11 @@
+{
+    "mappings": {
+        "grouping": "title"    
+    },
+    "default_values": {
+        "artist": "Unknown Artist",
+        "album": "Unknown Album",
+        "title": "Unknown Title",
+        "albumartist": "Unknown Album Artist"
+    }
+}
