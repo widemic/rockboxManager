@@ -23,7 +23,7 @@ A Python tool to generate and manage the Rockbox music database (`.tcd` files) f
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/widemic/rockboxManager.git
    ```
 2. Navigate to the project directory:
    ```bash
